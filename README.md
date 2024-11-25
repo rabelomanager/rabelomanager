@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Marcus Rabelo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning a Product
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Product, Technologies and Space
+- 🌱 Future Aeroespacial Engineer
+- 📫 How to reach me rabelomanager@gmail.com
 
 <!---
 rabelomanager/rabelomanager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
