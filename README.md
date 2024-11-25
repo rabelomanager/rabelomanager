@@ -2,6 +2,7 @@
 - 👀 I’m interested in Product, Technologies and Space
 - 🌱 Future Aeroespacial Engineer
 - 📫 How to reach me rabelomanager@gmail.com
+- 🥋 Fun Fact: I'm judo sensei
 
 <!---
 rabelomanager/rabelomanager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
